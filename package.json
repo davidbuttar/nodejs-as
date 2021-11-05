@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-as",
+  "version": "1.0.0",
+  "description": "Test of auto scaling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidbuttar/nodejs-as.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidbuttar/nodejs-as/issues"
+  },
+  "homepage": "https://github.com/davidbuttar/nodejs-as#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
